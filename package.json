@@ -1,14 +1,14 @@
 {
-  "name": "ng-inline-svg",
+  "name": "ngx-inline-svg",
   "version": "15.0.0",
   "description": "Angular directive for inserting an SVG inline within an element.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arkon/ng-inline-svg.git"
+    "url": "https://github.com/ynmstudio/ngx-inline-svg.git"
   },
-  "homepage": "http://echeung.me/ng-inline-svg/",
+  "homepage": "http://github.com/ynmstudio/ngx-inline-svg/",
   "bugs": {
-    "url": "https://github.com/arkon/ng-inline-svg/issues"
+    "url": "https://github.com/ynmstudio/ngx-inline-svg/issues"
   },
   "files": [
     "lib_commonjs/*",
